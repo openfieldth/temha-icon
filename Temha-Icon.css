@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'Temha-Icon';
   src:
-    url('Temha-Icon.ttf?5p45jw') format('truetype'),
-    url('Temha-Icon.woff?5p45jw') format('woff'),
-    url('Temha-Icon.svg?5p45jw#Temha-Icon') format('svg');
+    url('Temha-Icon.ttf?ehkggh') format('truetype'),
+    url('Temha-Icon.woff?ehkggh') format('woff'),
+    url('Temha-Icon.svg?ehkggh#Temha-Icon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -53,86 +53,78 @@
   content: "\e906";
 }
 
-.th-icon-check_box:before {
+.th-icon-check_fill:before {
   content: "\e907";
 }
 
-.th-icon-check_fill:before {
+.th-icon-check_line:before {
   content: "\e908";
 }
 
-.th-icon-check_line:before {
+.th-icon-check_round:before {
   content: "\e909";
 }
 
-.th-icon-check_round:before {
+.th-icon-dropdown_arrow:before {
   content: "\e90a";
 }
 
-.th-icon-check_round_normal:before {
+.th-icon-dropdown_arrow-1:before {
   content: "\e90b";
 }
 
-.th-icon-dropdown_arrow_lg:before {
+.th-icon-dropdown_head:before {
   content: "\e90c";
 }
 
-.th-icon-dropdown_arrow_sm:before {
+.th-icon-input_human:before {
   content: "\e90d";
 }
 
-.th-icon-dropdown_head:before {
+.th-icon-input_search:before {
   content: "\e90e";
 }
 
-.th-icon-input_human:before {
+.th-icon-pagination_first:before {
   content: "\e90f";
 }
 
-.th-icon-input_search:before {
+.th-icon-pagination_last:before {
   content: "\e910";
 }
 
-.th-icon-pagination_first:before {
+.th-icon-pagination_more_plus:before {
   content: "\e911";
 }
 
-.th-icon-pagination_last:before {
+.th-icon-pagination_next:before {
   content: "\e912";
 }
 
-.th-icon-pagination_more_plus:before {
+.th-icon-pagination_prev:before {
   content: "\e913";
 }
 
-.th-icon-pagination_next:before {
+.th-icon-radio_fill:before {
   content: "\e914";
 }
 
-.th-icon-pagination_prev:before {
+.th-icon-radio_line:before {
   content: "\e915";
 }
 
-.th-icon-radio_fill:before {
+.th-icon-select_check:before {
   content: "\e916";
 }
 
-.th-icon-radio_line:before {
+.th-icon-switch:before {
   content: "\e917";
 }
 
-.th-icon-select_check:before {
+.th-icon-text_more:before {
   content: "\e918";
 }
 
-.th-icon-switch_white:before {
-  content: "\e919";
-}
-
-.th-icon-text_more:before {
-  content: "\e91a";
-}
-
 .th-icon-volume_low:before {
-  content: "\e91b";
+  content: "\e919";
 }
