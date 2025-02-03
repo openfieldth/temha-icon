@@ -9,8 +9,8 @@
   font-display: block;
 }
 
-[class^="th-icon-"],
-[class*=" th-icon-"] {
+[class^="th-icon-"]::before,
+[class*=" th-icon-"]::before {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'Temha-Icon' !important;
   speak: never;
