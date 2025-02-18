@@ -1,9 +1,9 @@
 @font-face {
-  font-family: 'temha-icon';
+  font-family: 'Temha-Icon';
   src:
-    url('temha-icon.ttf?dhbi80') format('truetype'),
-    url('temha-icon.woff?dhbi80') format('woff'),
-    url('temha-icon.svg?dhbi80#temha-icon') format('svg');
+    url('Temha-Icon.ttf?dhbi80') format('truetype'),
+    url('Temha-Icon.woff?dhbi80') format('woff'),
+    url('Temha-Icon.svg?dhbi80#Temha-Icon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
